@@ -21,7 +21,7 @@ Website:
 
 ## 🟢 Access
 
-🌐 Website link: (https://finaltry-q7pgjq7oa-sayam-jains-projects.vercel.app/)
+🌐 Website link: (https://goal-connect.vercel.app/)
 
 **Presentation:**
 https://www.canva.com/design/DAGT3HOg3qg/FsY4BqOz-EAPq-sUH4nfgw/edit?utm_content=DAGT3HOg3qg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
